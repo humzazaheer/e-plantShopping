@@ -11,9 +11,9 @@ const App = () => {
     <div className="app">
       <Navbar />
       <Routes>
-        <Route path="/e-plantShopping" element={<LandingPage />} />
-        <Route path="/e-plantShopping/productlist" element={<ProductList />} />
-        <Route path="/e-plantShopping/cart" element={<CartItem />} />
+        <Route path="/" element={<LandingPage />} />
+        <Route path="/productlist" element={<ProductList />} />
+        <Route path="/cart" element={<CartItem />} />
       </Routes>
     </div>
   );
