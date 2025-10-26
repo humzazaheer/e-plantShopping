@@ -12,7 +12,7 @@ const ProductList = () => {
     {
       id: 1,
       name: "Rose",
-      image: "/shoppingreact/images/rose.png",
+      image: "/e-plantShopping/images/rose.png",
       description: "Beautiful and fragrant flower loved worldwide.",
       cost: "$15",
       category: "Aromatic Plants",
@@ -20,7 +20,7 @@ const ProductList = () => {
     {
       id: 2,
       name: "Sunflower",
-      image: "/shoppingreact/images/sunflower.png",
+      image: "/e-plantShopping/images/sunflower.png",
       description: "Bright yellow flower symbolizing happiness.",
       cost: "$12",
       category: "Aromatic Plants",
@@ -28,7 +28,7 @@ const ProductList = () => {
     {
       id: 3,
       name: "Tulip",
-      image: "/shoppingreact/images/tulip.png",
+      image: "/e-plantShopping/images/tulip.png",
       description: "Elegant flower available in many colors.",
       cost: "$10",
       category: "Medicinal Plants",
@@ -36,7 +36,7 @@ const ProductList = () => {
     {
       id: 4,
       name: "Daisy",
-      image: "/shoppingreact/images/daisy.png",
+      image: "/e-plantShopping/images/daisy.png",
       description: "Simple and charming flower with white petals.",
       cost: "$8",
       category: "Medicinal Plants",
